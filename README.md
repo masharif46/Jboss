@@ -11,3 +11,6 @@ podman ps
 
 podman exec -it jboss /bin/bash
 
+http://serverIPaddrsss
+
+
